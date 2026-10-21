@@ -188,12 +188,12 @@ This project builds on publicly available tools and implementations, especially:
 
 ## Original Source Attribution
 
-This project is adapted from the adversarial purification experiments originally published by Prince Ampofo and Truong Le.
+This project is adapted from the adversarial purification experiments originally published by Yakubu Mohammed Abass.
 
-Original repository: https://github.com/princeampofo/adversarial-purification
+Original repository: https://github.com/abass-codes/RobustAI
 
 ## Original Source Attribution
 
-This project is adapted from the adversarial purification experiments originally published by Prince Ampofo and Truong Le.
+This project is adapted from the adversarial purification experiments originally published by Yakubu Mohammed Abass.
 
-Original repository: https://github.com/princeampofo/adversarial-purification
+Original repository: https://github.com/abass-codes/RobustAI
